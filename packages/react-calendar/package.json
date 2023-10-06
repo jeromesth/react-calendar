@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar",
+  "name": "@jerome-tablz/react-calendar",
   "version": "4.6.0",
   "description": "Ultimate calendar for your React app.",
   "type": "module",
@@ -86,11 +86,5 @@
   "files": [
     "dist",
     "src"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wojtekmaj/react-calendar.git",
-    "directory": "packages/react-calendar"
-  },
-  "funding": "https://github.com/wojtekmaj/react-calendar?sponsor=1"
+  ]
 }
