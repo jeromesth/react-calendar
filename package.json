@@ -9,8 +9,8 @@
     "test"
   ],
   "scripts": {
-    "build": "yarn workspace @tablz/react-calendar build",
-    "dev": "yarn workspace @tablz/react-calendar watch & yarn workspace test dev",
+    "build": "yarn workspace react-calendar build",
+    "dev": "yarn workspace react-calendar watch & yarn workspace test dev",
     "lint": "yarn workspaces foreach run lint",
     "postinstall": "husky install",
     "prettier": "yarn workspaces foreach run prettier",
