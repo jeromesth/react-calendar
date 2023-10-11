@@ -4838,9 +4838,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"react-calendar@workspace:packages/react-calendar":
+"react-calendar@workspace:packages/@tablz/react-calendar":
   version: 0.0.0-use.local
-  resolution: "react-calendar@workspace:packages/react-calendar"
+  resolution: "react-calendar@workspace:packages/@tablz/react-calendar"
   dependencies:
     "@testing-library/jest-dom": ^5.15.0
     "@testing-library/react": ^14.0.0
@@ -5558,7 +5558,7 @@ __metadata:
     get-user-locale: ^2.2.1
     prettier: ^3.0.0
     react: ^18.2.0
-    react-calendar: "workspace:packages/react-calendar"
+    react-calendar: "workspace:packages/@tablz/react-calendar"
     react-dom: ^18.2.0
     typescript: ^5.0.0
     vite: ^4.0.0
